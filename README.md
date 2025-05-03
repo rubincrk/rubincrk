@@ -1,5 +1,9 @@
 ## Hi there 👋
 Machine Learning Engineer with hands-on experience in computer vision, diffusion models, and data engineering. Strong academic background in AI and proven ability to reproduce and extend state-of-the-art models. Passionate about applying deep learning to real-world problems and working in international teams.
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
+
+<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
