@@ -52,6 +52,11 @@ Tech stack: Python · PyTorch · Transformers · NLP
 ---
 
 ## 📊 GitHub Stats
+
+### 🐍 Contribution Activity
+
+![3D Contribution Graph](https://raw.githubusercontent.com/rubincrk/rubincrk/output/github-contribution-grid-snake.svg)
+
 <div align="center">
 
 <a href="https://github.com/rubincrk">
