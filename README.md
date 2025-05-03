@@ -10,6 +10,17 @@
 
 ## 🚀 Featured Projects
 
+### 🧮 [Combinatorial Decision-Making Optimization](https://github.com/rubincrk/Combinatorial-Decision-Making-Optimization)
+Explored solutions to the Multiple Couriers Planning (MCP) problem using optimization techniques: Constraint Programming (CP), SMT, and MIP.
+
+![Optimization](https://img.shields.io/badge/Optimization-Combinatorial-green)
+![CP](https://img.shields.io/badge/Techniques-CP%20%7C%20SMT%20%7C%20MIP-blue)
+
+```bash
+Tech stack: Python · OR-Tools · Z3 · Gurobi · MiniZinc
+```
+
+
 ### 🗂️ [Big Data - Seoul Bike Prediction](https://github.com/rubincrk/big-data)
 Predicting bike rental duration using PySpark and Hadoop. Includes real-world data pipeline and hyperparameter tuning.
 
