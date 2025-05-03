@@ -1,7 +1,13 @@
 # 👋 Hello! I'm Rubin — Machine Learning Engineer passionate about Big Data and Computer Vision
 
-🎓 MSc in Artificial Intelligence · 💡 Building real-world AI applications
-🌍 Based in Italy · 🇮🇹 Fluent in English & Italian
+🎓 MSc in Artificial Intelligence 
+
+💡 Building real-world AI applications
+
+🌍 Based in Italy <img src="https://flagcdn.com/w40/it.png" width="20"/> 
+
+💬 Fluent in English & Italian
+
 🛠️ Currently working on: diffusion models, data pipelines, and vision-based anomaly detection
 
 
