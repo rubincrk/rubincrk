@@ -1,38 +1,65 @@
-## 👋 Hello! I'm Rubin — Machine Learning Engineer passionate about Computer Vision and Robotics
+# 👋 Hello! I'm Rubin — Machine Learning Engineer passionate about Big Data and Computer Vision
 
-🎓 MSc in Artificial Intelligence | 🤖 Love building vision models & generative AI systems  
-📍 Based in Bologna, Italy | 💬 Fluent in English & Italian  
-🚀 Currently exploring: Diffusion models, Edge ML, and MLOps!
-
-
-Machine Learning Engineer with hands-on experience in computer vision, diffusion models, and data engineering. Strong academic background in AI and proven ability to reproduce and extend state-of-the-art models. Passionate about applying deep learning to real-world problems and working in international teams.
-
-<img src="yourbanner.gif" width="100%" alt="Banner"/>
-
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rubincrk&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubincrk&layout=compact&theme=github_dark)
-
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
+🎓 MSc in Artificial Intelligence · 💡 Building real-world AI applications
+🌍 Based in Italy · 🇮🇹 Fluent in English & Italian
+🛠️ Currently working on: diffusion models, data pipelines, and vision-based anomaly detection
 
 
 
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+## 🚀 Featured Projects
 
-<!--
-**rubincrk/rubincrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🗂️ [Big Data - Seoul Bike Prediction](https://github.com/rubincrk/big-data)
+Predicting bike rental duration using PySpark and Hadoop. Includes real-world data pipeline and hyperparameter tuning.
 
-Here are some ideas to get you started:
+![PySpark Badge](https://img.shields.io/badge/PySpark-Big%20Data-orange)
+![Hadoop Badge](https://img.shields.io/badge/Hadoop-Data%20Engineering-blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+Tech stack: Python · PySpark · Hadoop · ML algorithms
+```
+
+---
+
+### 🎯 [NLP - Emotion Reasoning (EDiReF)](https://github.com/rubincrk/computer_vision)
+Transformer-based emotion reasoning in dialogues (SemEval 2024). Fine-tuned and optimized for performance.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-CV%20Model-red)
+![SemEval](https://img.shields.io/badge/NLP-SemEval2024-yellow)
+
+```bash
+Tech stack: Python · PyTorch · Transformers · NLP
+```
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rubincrk&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=rubincrk&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubincrk&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 💬 About Me
+
+<details>
+  <summary>More about my journey...</summary>
+
+- 🎓 Studied Artificial Intelligence in Bologna
+- 🤖 Specialized in Computer Vision, Deep Learning & Big Data
+- 🛠️ Love working on real-world problems with scalable tools
+- 🌱 Constantly exploring new model architectures and frameworks
+- 📚 Also passionate about explainability, ethical AI and Robotics
+
+</details>
+
+---
+
+## 📫 Let's Connect
+
+- 🧠 GitHub: [@rubincrk](https://github.com/rubincrk)
+- 💼 LinkedIn: [https://www.linkedin.com/in/rubin-carkaxhia-36071a190/]
+- 📬 Email: carkaxhia.rubin@gmail.com
