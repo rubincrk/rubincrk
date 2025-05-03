@@ -1,12 +1,12 @@
-name: Generate Snake Contribution Graph
+name: Generate 3D Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight
-  workflow_dispatch:  # allows manual run
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Snake SVG
@@ -14,12 +14,13 @@ jobs:
         with:
           github_user_name: rubincrk
           outputs: |
-            ./output/github-contribution-grid-snake.svg
-
-      - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: output
+            dist/github-contribution-grid-snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.DEPLOY_KEY }}
+          publish_branch: output
+          publish_dir: ./dist
