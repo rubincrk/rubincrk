@@ -39,14 +39,14 @@ Tech stack: Python · PySpark · Hadoop · ML algorithms
 
 ---
 
-### 🎯 [NLP - Emotion Reasoning (EDiReF)](https://github.com/rubincrk/computer_vision)
-Transformer-based emotion reasoning in dialogues (SemEval 2024). Fine-tuned and optimized for performance.
+### 🎯 [Computer Vision – Knowledge-aware Object Detection (Symbolic Knowledge Injection)](https://github.com/rubincrk/ethics_ai)
+Reproduced and extended the paper [Object Detection Meets Knowledge Graphs](https://www.ijcai.org/proceedings/2017/0230.pdf) using FRCNN, YOLOv8, and DETR. Integrated external knowledge via semantic consistency; found that original FRCNN results were not reproducible, and knowledge-aware optimization caused performance drops with YOLO and DETR.
 
+![Knowledge Graph](https://img.shields.io/badge/Object%20Detection-Knowledge%20Graphs-brightgreen)
 ![PyTorch](https://img.shields.io/badge/PyTorch-CV%20Model-red)
-![SemEval](https://img.shields.io/badge/NLP-SemEval2024-yellow)
 
 ```bash
-Tech stack: Python · PyTorch · Transformers · NLP
+Tech stack: Python · PyTorch · Object Detection · Knowledge Graph · DETR · YOLOv8
 ```
 
 ---
