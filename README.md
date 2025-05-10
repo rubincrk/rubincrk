@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Rubin — Machine Learning Engineer passionate about Big Data and Computer Vision
+# 👋 Hello! I'm Rubin — Machine Learning Engineer passionate about Computer Vision, Robotics and Generative AI.
 
 🎓 MSc in Artificial Intelligence 
 
@@ -8,7 +8,9 @@
 
 💬 Fluent in English & Italian
 
-🛠️ Currently working on: diffusion models, data pipelines, and vision-based anomaly detection
+🛠️ Currently working on: diffusion models and reinforcement learning.
+
+🎯 Open to work for Generative AI, Machine Learning Engineer, Computer Vision Engineer Role.
 
 
 
