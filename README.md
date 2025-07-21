@@ -10,7 +10,7 @@
 
 🛠️ Currently working on: diffusion models and reinforcement learning.
 
-🎯 Open to work for Generative AI, Machine Learning Engineer, Computer Vision Engineer Role.
+🎯 Open to work for Machine Learning Engineer, Computer Vision Engineer and Robotics Engineer Role.
 
 
 
